@@ -1,6 +1,6 @@
 ## Matplot3DEx Documentation
 
-## Table of Contents
+### Table of Contents
 
 1. [Overview](#overview)
 2. [Installation](#installation)
@@ -243,6 +243,8 @@ quiver_plot.show()
 ## Contributing
 
 If you find any issues or have suggestions for improvements, feel free to contribute! Visit the [GitHub repository](https://github.com/ishanoshada/matplot3dex) for more details.
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/matp3D/count.svg)
 
 ## License
 
